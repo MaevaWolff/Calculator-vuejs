@@ -1,5 +1,7 @@
 # Calculator
 
+Built with https://www.freecodecamp.org/learn
+
 > A Vue.js project
 
 ## Build Setup
