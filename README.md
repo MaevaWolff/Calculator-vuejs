@@ -1,6 +1,6 @@
 # Calculator
 
-Built with https://www.freecodecamp.org/learn
+ https://www.freecodecamp.org/learn
 
 > A Vue.js project
 
