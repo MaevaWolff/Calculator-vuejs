@@ -1,4 +1,4 @@
-# todo
+# Calculator
 
 > A Vue.js project
 
