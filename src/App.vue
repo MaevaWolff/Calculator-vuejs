@@ -1,15 +1,21 @@
 <template>
   <div id="app">
-    <HelloWorld />
+    <Calculator></Calculator>
   </div>
 </template>
 
 <script>
+import Calculator from './components/Calculator'
+
 export default {
   // eslint-disable-next-line quotes
-  name: "App"
-  // eslint-disable-next-line
-};
+  name: 'App',
+  components: {
+    Calculator
+    // }
+
+  }
+}
 </script>
 
 <style>
